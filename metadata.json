@@ -1,0 +1,7 @@
+{
+  "name": "MacOS OmniScanner",
+  "description": "A sleek, macOS-inspired barcode and QR code scanner powered by Gemini for intelligent product and content analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
